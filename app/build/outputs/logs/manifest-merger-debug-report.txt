@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/95c41bfde6c9006477b7b731b635cc55/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e51369393fc247ef0a7133ee06d53688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46fcc05ea25b150491dbf2c07fa2fcab/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e8faf354450a3cca464e1ef05b51a341/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e83c2a891f791eb2d09f2e1226e2df45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/73d52b2b3624194da923cc8e2ab3d606/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/f6c22952468637fa62a8c7c02e38215e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/80277542f1b6b14b8af8e47be96f0318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/c36bcc37013b8f85002f16f1ab77d979/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2158eb354f2eaef70d00107c56c189d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/45a3772e3793b78ec7ca232280f073f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/9ae0599a91320a42deac7cb2b73e74f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/808dc160f9cc5ec04e8af58295c82c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/90fcc16dfe874489792ded95fd02a451/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46e762febd6ac5ca0373b49b6baa3b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/625792f2142e6994a8fd3746dbd65b89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/a2a7588ecc584dab8cb75046f01ab7d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/db3da8e9bb70b45de8200bed6d58d710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/681ac4c45f79996f22dfda34726fc789/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5d61f3096f6c5381fa65460c3c9b6ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/695fc684ea26c75b7e7195d0a85235d4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/be5344e0451371fbe8dd56cb5414cf7b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2c290b584633df2a786e4b28f9b3d269/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/ca3eba4b21ab6501d16cdb2be8f83f85/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/aae5178c349753c0d2418b049fe7f507/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/32f385aff36dc77121297fb0b63b084f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/fabf2032f92df926bf6fd80ae9e74ce7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d01544111b9070d88ac004f3b0bbf0c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/850071a78dc3687431644640c35b34aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2bbb06df443604e197567d8ad4996c28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d93abaeceec131ee57035bc1338ff3ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/af7ddfba7d405c3bee936d019075a804/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/0fc1d2a1b10b59f3c965b329312816e3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:10:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46fcc05ea25b150491dbf2c07fa2fcab/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46fcc05ea25b150491dbf2c07fa2fcab/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e8faf354450a3cca464e1ef05b51a341/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e8faf354450a3cca464e1ef05b51a341/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/695fc684ea26c75b7e7195d0a85235d4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/695fc684ea26c75b7e7195d0a85235d4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:16:19-51
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:24:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:26:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:30:27-75
+data
+ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:32:17-34:62
+	android:host
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:33:21-55
+	android:scheme
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml:34:21-59
+uses-sdk
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/95c41bfde6c9006477b7b731b635cc55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/95c41bfde6c9006477b7b731b635cc55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e51369393fc247ef0a7133ee06d53688/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e51369393fc247ef0a7133ee06d53688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46fcc05ea25b150491dbf2c07fa2fcab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46fcc05ea25b150491dbf2c07fa2fcab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e8faf354450a3cca464e1ef05b51a341/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e8faf354450a3cca464e1ef05b51a341/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e83c2a891f791eb2d09f2e1226e2df45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/e83c2a891f791eb2d09f2e1226e2df45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/73d52b2b3624194da923cc8e2ab3d606/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/73d52b2b3624194da923cc8e2ab3d606/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/f6c22952468637fa62a8c7c02e38215e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/f6c22952468637fa62a8c7c02e38215e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/80277542f1b6b14b8af8e47be96f0318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/80277542f1b6b14b8af8e47be96f0318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/c36bcc37013b8f85002f16f1ab77d979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/c36bcc37013b8f85002f16f1ab77d979/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2158eb354f2eaef70d00107c56c189d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2158eb354f2eaef70d00107c56c189d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/45a3772e3793b78ec7ca232280f073f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/45a3772e3793b78ec7ca232280f073f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/9ae0599a91320a42deac7cb2b73e74f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/9ae0599a91320a42deac7cb2b73e74f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/808dc160f9cc5ec04e8af58295c82c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/808dc160f9cc5ec04e8af58295c82c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/90fcc16dfe874489792ded95fd02a451/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/90fcc16dfe874489792ded95fd02a451/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46e762febd6ac5ca0373b49b6baa3b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/46e762febd6ac5ca0373b49b6baa3b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/625792f2142e6994a8fd3746dbd65b89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/625792f2142e6994a8fd3746dbd65b89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/a2a7588ecc584dab8cb75046f01ab7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/a2a7588ecc584dab8cb75046f01ab7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/db3da8e9bb70b45de8200bed6d58d710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/db3da8e9bb70b45de8200bed6d58d710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/681ac4c45f79996f22dfda34726fc789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/681ac4c45f79996f22dfda34726fc789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5d61f3096f6c5381fa65460c3c9b6ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/5d61f3096f6c5381fa65460c3c9b6ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/275fdc738fb0cc0de9a96bb8dbe8946e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/695fc684ea26c75b7e7195d0a85235d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/695fc684ea26c75b7e7195d0a85235d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/be5344e0451371fbe8dd56cb5414cf7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/be5344e0451371fbe8dd56cb5414cf7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2c290b584633df2a786e4b28f9b3d269/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2c290b584633df2a786e4b28f9b3d269/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/ca3eba4b21ab6501d16cdb2be8f83f85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/ca3eba4b21ab6501d16cdb2be8f83f85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/aae5178c349753c0d2418b049fe7f507/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/aae5178c349753c0d2418b049fe7f507/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/32f385aff36dc77121297fb0b63b084f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/32f385aff36dc77121297fb0b63b084f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/fabf2032f92df926bf6fd80ae9e74ce7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/fabf2032f92df926bf6fd80ae9e74ce7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d01544111b9070d88ac004f3b0bbf0c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d01544111b9070d88ac004f3b0bbf0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/850071a78dc3687431644640c35b34aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/850071a78dc3687431644640c35b34aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2bbb06df443604e197567d8ad4996c28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/2bbb06df443604e197567d8ad4996c28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d93abaeceec131ee57035bc1338ff3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/d93abaeceec131ee57035bc1338ff3ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/af7ddfba7d405c3bee936d019075a804/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/af7ddfba7d405c3bee936d019075a804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/0fc1d2a1b10b59f3c965b329312816e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/0fc1d2a1b10b59f3c965b329312816e3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stanleynwa/Documents/TwitterApp/app/src/main/AndroidManifest.xml
