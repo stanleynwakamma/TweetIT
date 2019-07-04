@@ -1244,6 +1244,10 @@
         "source": "/Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/95c41bfde6c9006477b7b731b635cc55/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/stanleynwa/Documents/TwitterApp/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
+        "source": "/Users/stanleynwa/Documents/TwitterApp/app/src/main/res/layout/item_tweet.xml"
+    },
+    {
         "merged": "/Users/stanleynwa/Documents/TwitterApp/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/Users/stanleynwa/.gradle/caches/transforms-2/files-2.1/95c41bfde6c9006477b7b731b635cc55/res/anim/abc_slide_in_bottom.xml"
     },
