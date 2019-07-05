@@ -45,5 +45,22 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
     implementation 'com.facebook.stetho:stetho:1.5.0'
+    implementation 'com.android.support:support-v4:28.0.0'
     implementation 'com.android.support:recyclerview-v7:28.0.0'
+
+
+
+
+    // Parceler
+    implementation 'org.parceler:parceler-api:1.1.12'
+    annotationProcessor 'org.parceler:parceler:1.1.12'
+
+
+    // Butterknife
+    implementation 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+
+    // CharCountTextView
+    implementation 'com.github.broakenmedia:CharCountTextView:v1.0'
+
 }
