@@ -49,9 +49,9 @@ public class TimelineActivity extends AppCompatActivity {
 
     public void styleActionBar(){
         ActionBar actionBar = getSupportActionBar(); // or getActionBar();
-        actionBar.setTitle("Twitter Home"); // set the top title
+        actionBar.setTitle("     Home"); // set the top title
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.drawable.ic_launcher);
+        actionBar.setLogo(R.drawable.ic_logo);
         actionBar.setDisplayUseLogoEnabled(true);
         actionBar.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.twitter_blue)));
     }

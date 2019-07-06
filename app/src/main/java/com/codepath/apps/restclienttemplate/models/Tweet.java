@@ -2,6 +2,7 @@ package com.codepath.apps.restclienttemplate.models;
 
 import android.os.Parcelable;
 
+import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.parceler.Parcel;
@@ -17,6 +18,8 @@ public class Tweet implements Parcelable {
     public  long uid;  // database ID for the tweet
     public String createdAt;
     public User user;
+    public Entity entity;
+    public boolean hasEntities;
 
     // Default Constructor
     public Tweet() { }
@@ -48,6 +51,16 @@ public class Tweet implements Parcelable {
         tweet.uid = obj.getLong("id");
         tweet.createdAt = obj.getString("created_at");
         tweet.user = User.fromJSON(obj.getJSONObject("user"));
+
+        JSONObject entityObject = obj.getJSONObject("entities");
+        if(entityObject.has("media")){
+            JSONArray mediaEndpoint = entityObject.getJSONArray("media");
+            if(mediaEndpoint!=null && mediaEndpoint.length()!=0){
+                tweet.entity = Entity.fromJSON(obj.getJSONObject("entities"));
+                tweet.hasEntities = true;
+            }
+        }
+        //tweet.entity = Entity.fromJSON()
         return tweet;
     }
 

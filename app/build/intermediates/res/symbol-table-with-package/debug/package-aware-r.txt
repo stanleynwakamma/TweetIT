@@ -654,6 +654,9 @@ drawable et_background
 drawable ic_action_name
 drawable ic_compose
 drawable ic_launcher
+drawable ic_logo
+drawable ic_vector_heart_stroke
+drawable ic_vector_retweet
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -668,9 +671,11 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable vector_compose_dm_shortcut
 id ALT
 id CTRL
 id FUNCTION
+id Like
 id META
 id SHIFT
 id SYM
@@ -728,6 +733,7 @@ id disableHome
 id edit_query
 id end
 id end_padder
+id entity_tweet
 id etNewTweet
 id expand_activities_button
 id expanded_menu
@@ -773,6 +779,8 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id reTweet
+id reply
 id right
 id right_icon
 id right_side

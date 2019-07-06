@@ -16,7 +16,7 @@ import java.lang.Override;
 public class ComposeActivity_ViewBinding<T extends ComposeActivity> implements Unbinder {
   protected T target;
 
-  private View view2131165220;
+  private View view2131165221;
 
   @UiThread
   public ComposeActivity_ViewBinding(final T target, View source) {
@@ -26,7 +26,7 @@ public class ComposeActivity_ViewBinding<T extends ComposeActivity> implements U
     target.etNewTweet = Utils.findRequiredViewAsType(source, R.id.etNewTweet, "field 'etNewTweet'", EditText.class);
     view = Utils.findRequiredView(source, R.id.btnSubmit, "field 'btnSubmit' and method 'submitTweet'");
     target.btnSubmit = Utils.castView(view, R.id.btnSubmit, "field 'btnSubmit'", Button.class);
-    view2131165220 = view;
+    view2131165221 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,8 +46,8 @@ public class ComposeActivity_ViewBinding<T extends ComposeActivity> implements U
     target.btnSubmit = null;
     target.tvCharacterCount = null;
 
-    view2131165220.setOnClickListener(null);
-    view2131165220 = null;
+    view2131165221.setOnClickListener(null);
+    view2131165221 = null;
 
     this.target = null;
   }

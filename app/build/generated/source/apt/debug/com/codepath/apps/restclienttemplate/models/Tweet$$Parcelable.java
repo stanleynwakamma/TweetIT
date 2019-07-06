@@ -52,8 +52,10 @@ public class Tweet$$Parcelable
             parcel$$1 .writeInt(identityMap$$0 .put(tweet$$1));
             parcel$$1 .writeLong(tweet$$1 .uid);
             parcel$$1 .writeString(tweet$$1 .createdAt);
+            parcel$$1 .writeInt((tweet$$1 .hasEntities? 1 : 0));
             parcel$$1 .writeString(tweet$$1 .body);
             parcel$$1 .writeParcelable(tweet$$1 .user, flags$$0);
+            parcel$$1 .writeSerializable(tweet$$1 .entity);
         }
     }
 
@@ -81,8 +83,10 @@ public class Tweet$$Parcelable
             identityMap$$1 .put(reservation$$0, tweet$$4);
             tweet$$4 .uid = parcel$$3 .readLong();
             tweet$$4 .createdAt = parcel$$3 .readString();
+            tweet$$4 .hasEntities = (parcel$$3 .readInt() == 1);
             tweet$$4 .body = parcel$$3 .readString();
             tweet$$4 .user = ((User) parcel$$3 .readParcelable(Tweet$$Parcelable.class.getClassLoader()));
+            tweet$$4 .entity = ((Entity) parcel$$3 .readSerializable());
             com.codepath.apps.restclienttemplate.models.Tweet tweet$$3 = tweet$$4;
             identityMap$$1 .put(identity$$1, tweet$$3);
             return tweet$$3;

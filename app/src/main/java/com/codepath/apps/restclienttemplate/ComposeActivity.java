@@ -51,7 +51,6 @@ public class ComposeActivity extends AppCompatActivity {
 
     public void styleActionBar() {
         ActionBar actionBar = getSupportActionBar();
-        actionBar.hide();
 
     }
 
