@@ -671,6 +671,7 @@ int drawable notify_panel_notification_icon_bg 0x7f060066
 int drawable tooltip_frame_dark 0x7f060067
 int drawable tooltip_frame_light 0x7f060068
 int drawable vector_compose_dm_shortcut 0x7f060069
+int drawable vector_compose_shortcut 0x7f06006a
 int id ALT 0x7f070000
 int id CTRL 0x7f070001
 int id FUNCTION 0x7f070002

@@ -3484,6 +3484,7 @@ public final class R {
     public static final int tooltip_frame_dark=0x7f060067;
     public static final int tooltip_frame_light=0x7f060068;
     public static final int vector_compose_dm_shortcut=0x7f060069;
+    public static final int vector_compose_shortcut=0x7f06006a;
   }
   public static final class id {
     public static final int ALT=0x7f070000;

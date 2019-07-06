@@ -29,8 +29,8 @@
 
     <EditText
         android:id="@+id/etNewTweet"
-        android:layout_width="353dp"
-        android:layout_height="286dp"
+        android:layout_width="318dp"
+        android:layout_height="187dp"
         android:layout_marginTop="16dp"
         android:ems="10"
         android:gravity="start|top"

@@ -49,7 +49,7 @@ public class TimelineActivity extends AppCompatActivity {
 
     public void styleActionBar(){
         ActionBar actionBar = getSupportActionBar(); // or getActionBar();
-        actionBar.setTitle("     Home"); // set the top title
+        actionBar.setTitle("                   Twitter"); // set the top title
         actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setLogo(R.drawable.ic_logo);
         actionBar.setDisplayUseLogoEnabled(true);
